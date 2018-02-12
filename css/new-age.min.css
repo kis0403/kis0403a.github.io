@@ -1,6 +1,6 @@
 
 @CHARSET "UTF-8"; 
-@font-face { font-family: 'YouandiModernTR'; src: url(/Users/hyundai/Downloads/YouandiModernTR.ttf) format('truetype'); } body { font-family: YouandiModernTR; }
+@font-face { font-family: 'YouandiModernTR'; src: url(/Users/hyundai/Downloads/YouandiModernTR.woff) format('truetype'); } body { font-family: YouandiModernTR; }
 
 html,
 body {
